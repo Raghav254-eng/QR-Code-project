@@ -49,7 +49,7 @@ This is a solution to the [QR code component challenge]
 
 - Website - [QR-Code](http://127.0.0.1:5501/index.html)
 - Frontend Mentor - [raghav246_95970](https://www.frontendmentor.io/profile/raghav246_95970)
-- 
+  
 ## Acknowledgments
    Developed independently with the help of open-source resources and documentation.(from Frontend Mentor)
 
